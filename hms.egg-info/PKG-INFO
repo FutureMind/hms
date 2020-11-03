@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: hms
+Version: 1.0.2
+Summary: Huawei Admin Python SDK
+Home-page: https://developer.huawei.com/consumer/cn/
+Author: Huawei
+License: UNKNOWN
+Description: The Huawei Admin Python SDK enables server-side (backend) Python developers to integrate Huawei into their services and applications.
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: Apache Software License
+Description-Content-Type: text/markdown
